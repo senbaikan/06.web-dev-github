@@ -1,3 +1,9 @@
-To see command prompt, type command "Ctrl + `"
+To open command prompt, type command "Ctrl + `"
 Initializing git project, "git init"
 Changing the name of the master branch "git branch -m <name>"
+To add file on tracking : git add <filename>
+To edit config "git config --global --edit"
+To exit from editing "Esc :x"
+Adding user name "git config --global user.name "name you want to""
+Adding user email "git config --global user.email "email address""
+To check log " git log"
