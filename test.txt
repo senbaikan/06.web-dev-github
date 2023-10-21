@@ -19,4 +19,5 @@ To checkout branch "git checkout -b {branch name}" //! -b is for creating, unnec
 To merge "git merge {branch name}"
 To remove file, "git rm {filename}
 To reset, "git reset --hard HEAD~#"
+To delete branch, "git branch -D {branch name}"
 
