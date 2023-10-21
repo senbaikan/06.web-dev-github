@@ -1,0 +1,29 @@
+[33mcommit 978b8f438424b969460f75c77b4733a0696e1ab0[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Mark Hong <dumy@gmail.com>
+Date:   Sat Oct 21 13:31:21 2023 +1000
+
+    trying to remove feature
+
+[33mcommit 91acc3a4a50c99d82f4777cc7d07e5b2450fac73[m
+Author: Mark Hong <dumy@gmail.com>
+Date:   Fri Oct 20 21:20:04 2023 +1000
+
+    added committing command
+
+[33mcommit ae3dba08d545f04fd7deffd4c4b8c5fc06ee8ee3[m
+Author: Mark Hong <dumy@gmail.com>
+Date:   Fri Oct 20 21:13:03 2023 +1000
+
+    changed test.txt and added second-commit.txt
+
+[33mcommit 382ca1a004b819101db622815ce23c7970fd5ee3[m
+Author: Mark Hong <wenchild@gmail.com>
+Date:   Fri Oct 20 20:47:07 2023 +1000
+
+    added text.txt file
+
+[33mcommit d3235cb24ffa30ae5e456860570f559b1e99bf7c[m
+Author: Mark Hong <wenchild@gmail.com>
+Date:   Fri Oct 20 20:19:00 2023 +1000
+
+    changed test.txt and added second-commit.txt
