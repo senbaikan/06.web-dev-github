@@ -1,5 +1,3 @@
-This is another commit!
-
 To open command prompt, type command "Ctrl + `"
 
 Initializing git project, "git init"
@@ -20,4 +18,7 @@ To merge "git merge {branch name}"
 To remove file, "git rm {filename}
 To reset, "git reset --hard HEAD~#"
 To delete branch, "git branch -D {branch name}"
+
+To reset to last commit, "git checkout -- ."
+
 
