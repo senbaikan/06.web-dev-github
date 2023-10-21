@@ -14,3 +14,5 @@ To check log "git log"
 To add all files on tracking "git add ."
 
 To commit for changed "git commit -m "{messages}"
+
+To create new branch "git checkout -b(means you checkout the new branch) {branch name}"
