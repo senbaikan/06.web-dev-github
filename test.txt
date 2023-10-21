@@ -17,3 +17,6 @@ To add all files on tracking "git add ."
 To commit for changed "git commit -m "{messages}"
 To checkout branch "git checkout -b {branch name}" //! -b is for creating, unnecessary for moving each other !//
 To merge "git merge {branch name}"
+To remove file, "git rm {filename}
+To reset, "git reset --hard HEAD~#"
+
