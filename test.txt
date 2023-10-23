@@ -23,3 +23,5 @@ To reset to last commit, "git checkout -- ."
 
 Delete access tocken, "git credential reject", "host=github.com", "protocol=https"
 
+connect local and remote repository, "git remote add origin {URL}"
+push the project to github, "git push origin main"
