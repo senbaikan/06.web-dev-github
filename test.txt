@@ -1,3 +1,6 @@
+edited befor pulling
+
+
 To open command prompt, type command "Ctrl + `" or "Ctrl + J"
 
 !Initializing git project, "git init"
