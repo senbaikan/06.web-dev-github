@@ -29,3 +29,4 @@ Delete github access tocken in MS WINDOWS, "git credential reject", "host=github
 connect local and remote repository, "git remote add origin {URL}"
 push the project to github, "git push origin main"
 clone the folder from github, "git clone {URL}
+pull updated, "git pull {URL}
