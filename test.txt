@@ -1,8 +1,9 @@
-To open command prompt, type command "Ctrl + `"
+To open command prompt, type command "Ctrl + `" or "Ctrl + J"
 
-Initializing git project, "git init"
-Changing the name of the master branch "git branch -m <name>"
+!Initializing git project, "git init"
+!Changing the name of the master branch "git branch -m <name>"
 To add file on tracking : git add <filename>
+!To add all files on tracking "git add ."
 
 To edit config "git config --global --edit"
 To exit from editing "Esc :x"
@@ -10,18 +11,18 @@ To exit from editing "Esc :x"
 Adding user name "git config --global user.name "{name you want to}""
 Adding user email "git config --global user.email "{email address}""
 
-To check log "git log"
-To add all files on tracking "git add ."
-To commit for changed "git commit -m "{messages}"
-To checkout branch "git checkout -b {branch name}" //! -b is for creating, unnecessary for moving each other !//
-To merge "git merge {branch name}"
-To remove file, "git rm {filename}
-To reset, "git reset --hard HEAD~#"
-To delete branch, "git branch -D {branch name}"
+!To check log "git log"
+!To commit for changed "git commit -m "{messages}"
+!To checkout branch "git checkout -b {branch name}" //! -b is for creating, unnecessary for moving each other !//
+!To merge "git merge {branch name}"
+!To remove file, "git rm {filename}
+!To delete branch, "git branch -D {branch name}"
 
+To reset, "git reset --hard HEAD~#"
 To reset to last commit, "git checkout -- ."
 
-Delete access tocken, "git credential reject", "host=github.com", "protocol=https"
+Delete github access tocken in MS WINDOWS, "git credential reject", "host=github.com", "protocol=https"
 
 connect local and remote repository, "git remote add origin {URL}"
 push the project to github, "git push origin main"
+clone the folder from github, "git clone {URL}
