@@ -21,4 +21,5 @@ To delete branch, "git branch -D {branch name}"
 
 To reset to last commit, "git checkout -- ."
 
+Delete access tocken, "git credential reject", "host=github.com", "protocol=https"
 
